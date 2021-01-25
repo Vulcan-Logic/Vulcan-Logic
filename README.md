@@ -1,4 +1,5 @@
-# GitHub account of Vineet W. Singh (vinnie), ####[B.Sc. Maths (Lond), Dip. Systems Analysis, Certificate Web Development, Certificate Data Science]
+# GitHub account of Vineet W. Singh (Vinnie Singh)
+#### _[B.Sc. Maths (Lond), Dip. Systems Analysis, Certificate Web Development, Certificate Data Science]_
 ## Dedicated fan of mathematics, economics & logic, Manufacturing enthusiast, Technology buff & Software developer. Coding for over 30 years.
 ### About me and my coding history
 I like programming and I have been programming for over 30 years. 

@@ -10,10 +10,10 @@ My mathematics degree required me to learn PASCAL while yet another educational 
 Later on, while working for my family business, I wrote small programmes in MS-ACCESS & MS-EXCEL to improve business functions.  
 I used JAVA (SWING, JDBC) & PostgreSQL to wrtie a small application for inventory management as well.  
 I also developed an interest in using AUTOCAD for making and managing drawings for the business. I moved from AUTOCAD to Pro-Engineer to make
-3D models, finally working with CATIA to make hundreds of 3D models and drawings.
-Demonstrations by National Instruments in LABVIEW got me interested in that side of technology and I attended training courses for LABVIEW. Unfortunately, I have not been able to use LABVIEW for a project so far. 
+3D models, finally working with CATIA to make hundreds of 3D models and drawings.  
+Demonstrations by National Instruments in LABVIEW got me interested in that side of technology and I attended training courses for LABVIEW. Unfortunately, I have not been able to use LABVIEW for a project so far.  
 Having studied statistics, I developed an interest in data science which led me to the Data Science specialization programme conducted by John Hopkins University and 
-Coursera. This gave me skills in R programming and using markdown for hypertext documents. 
+Coursera. This gave me skills in R programming and using markdown for hypertext documents.  
 Data Science is incomplete without machine and deep learning, reading for which introduced me to Python, a programming language I have come to appreciate and admire.  
 I was accepted into the Junior Web Development programme coducted by Academy Xi and Generation Australia. This programme has been extremely beneficial for me. Apart from increasing my HTML5, CSS3, JavaScript and Agile skills, I have improved upon important behaviourial and soft skills like Communication, Collaboration, Adapatability and Personal Responsibility.  
 Apart from the Junior Web Development programme, I also have certificates from Udacity & Coursera in various web development technologies like REACT, Node.js and Flask.  

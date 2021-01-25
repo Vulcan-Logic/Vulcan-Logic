@@ -15,7 +15,7 @@ Demonstrations by National Instruments in LABVIEW got me interested in that side
 Having studied statistics, I developed an interest in data science which led me to the Data Science specialization programme conducted by John Hopkins University and 
 Coursera. This gave me skills in R programming and using markdown for hypertext documents. 
 Data Science is incomplete without machine and deep learning, reading for which introduced me to Python, a programming language I have come to appreciate and admire.  
-I was accepted into the Junior Web Development programme coducted by Academy Xi and Generation Australia. This programme has been extremely beneficial for me. Apart from increasing my HTML5, CSS3, JavaScript and Agile skills, I have improved upon impportant behaviourial and soft skills like Communication, Collaboration, Adapatability and Personal Responsibility.  
+I was accepted into the Junior Web Development programme coducted by Academy Xi and Generation Australia. This programme has been extremely beneficial for me. Apart from increasing my HTML5, CSS3, JavaScript and Agile skills, I have improved upon important behaviourial and soft skills like Communication, Collaboration, Adapatability and Personal Responsibility.  
 Apart from the Junior Web Development programme, I also have certificates from Udacity & Coursera in various web development technologies like REACT, Node.js and Flask.  
 ### Repositories in this GitHub A/C.  
 This account host repositories for many projects that I have done. 

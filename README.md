@@ -1,7 +1,8 @@
 # GitHub account of Vineet W. Singh (Vinnie Singh)
 #### _[B.Sc. Maths (Lond), Dip. Systems Analysis, Certificate Web Development, Certificate Data Science]_
-## Dedicated fan of mathematics, economics & logic, Manufacturing enthusiast, Technology buff & Software developer. Coding for over 30 years.
-### About me and my coding history
+## Student of Logic, Maths & Economics, Autodidact, Philomath, Epistemophile, Sophophile,  Curious manufacturing enthusiast and Software developer for 30+ years.
+## It's all about Code. 
+### Coding history 
 I like programming and I have been programming for over 30 years. 
 I have a keen interest in computer programming and I started programming in 1988. It has been a hobby ever since. 
 The very first programs I wrote were written for a GW-BASIC interpreter running on an Intel-8088 PC. Following my hobby, 
@@ -18,6 +19,17 @@ Data Science is incomplete without machine and deep learning, reading for which 
 I was accepted into the Junior Web Development programme coducted by Academy Xi and Generation Australia. This programme has been extremely beneficial for me. Apart from increasing my HTML5, CSS3, JavaScript and Agile skills, I have improved upon important behaviourial and soft skills like Communication, Collaboration, Adapatability and Personal Responsibility.  
 Apart from the Junior Web Development programme, I also have certificates from Udacity & Coursera in various web development technologies like REACT, Node.js and Flask.  
 ### Repositories in this GitHub A/C.  
-This account host repositories for many projects that I have done. 
-Some projects were made to fulfill the requirements of the online courses that I was doing while other are related to projects that I did to increase my experience in 
-this field. Some are the result of hobby projects. 
+This account host repositories for many projects that I have done.  
+Some projects were made to fulfill the requirements of the online courses that I was doing while other are related to projects that I did to increase my experience in this field.  
+Some are the result of my hobby of coding for fun or learning new programming languages while following online courses.
+#### All Data Science related repos contain projects related to data science and R. These repo names start with DS.
+#### All WEB related repos contain projects related to webpages, websites or webapps. These have been written in HTML, CSS, Bootstrap, JS-ES6 & Python. 
+#### All repos with names starting with JWD are related to the Junior Web Development Course run by Generation Australia and Academy-Xi. 
+#### Portfolio of non training related work is contained in the following repos:
+##### Data Science
+[Data Analysis and report for tyrecompare](https://github.com/Vulcan-Logic/DS_tyre_compare)  
+##### Full Stack 
+[Inventory Application that was hosted on Google Appengine](https://github.com/Vulcan-Logic/WEB_flask_inventory_project)
+##### Websites
+[Single Page App for Electronics Repair Hub](https://github.com/Vulcan-Logic/erh)  
+[Mulitple page App for Electronics Repair Hub](https://github.com/Vulcan-Logic/electronicsrepairhub)

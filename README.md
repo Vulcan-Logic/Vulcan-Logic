@@ -1,6 +1,6 @@
 # GitHub account of Vineet W. Singh (Vinnie Singh)
 #### _[B.Sc. Maths (Lond), Dip. Systems Analysis, Certificate Web Development, Certificate Data Science]_
-## Student of Logic, Maths & Economics, Autodidact, Philomath, Epistemophile, Sophophile,  Manufacturing enthusiast and Software developer.
+## Autodidact, Philomath, Epistemophile, Sophophile, Student of Maths & Logic, Manufacturing enthusiast and Software developer.
 ## It's all about Code. 
 ### Coding history and interests.
 With a keen interest in computer programming, I started programming in 1988 and it has been a hobby ever since. The very first programs I wrote were written for a GW-BASIC interpreter running on an Intel-8088 PC.  

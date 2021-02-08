@@ -1,6 +1,6 @@
 # GitHub account of Vineet W. Singh (Vinnie Singh)
 #### _[B.Sc. Maths (Lond), Dip. Systems Analysis, Certificate Web Development, Certificate Data Science]_
-## It's all about Code. 
+## It's all about Maths, Logic & Code. 
 ### Coding history and interests.
 With a keen interest in computer programming, I started programming in 1988 and it has been a hobby ever since. The very first programs I wrote were written for a GW-BASIC interpreter running on an Intel-8088 PC.  
 Following my hobby, over the next few years, I learnt to programme in COBOL, dBase III+, VP Planner, Lotus 123, Oracle SQL + PL/SQL and C. My mathematics degree required me to learn PASCAL while yet another educational endeavour required me to learn MATLAB.  
